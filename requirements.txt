@@ -19,7 +19,7 @@ langsmith
 supabase
 nltk
 Pyrebase4
-pysqlite-binary==0.5.1.3380300
+
 
 
 # For downloading the model
