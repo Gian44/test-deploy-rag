@@ -1,5 +1,5 @@
 import os
-import sqlite3
+import pysqlite3 as sqlite3
 import logging
 import json
 import chromadb

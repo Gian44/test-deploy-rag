@@ -1,7 +1,7 @@
 import os
 import time
 import json
-import sqlite3
+import pysqlite3 as sqlite3
 import requests
 import streamlit as st
 from config import *
