@@ -2,7 +2,7 @@
 # @author Beam Railey Damian
 # @date 07/10/2024
 
-import pysqlite3 as sqlite3
+import sqlite3
 from config import *
 
 def createTable(cursor, name):

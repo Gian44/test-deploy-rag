@@ -5,7 +5,7 @@
 import os
 import time
 import json
-import pysqlite3 as sqlite3
+import sqlite3
 import requests
 from config import *
 from db_methods import *
