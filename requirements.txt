@@ -18,7 +18,8 @@ psycopg2-binary
 langsmith
 supabase
 nltk
-pysqlite3-binary
+Pyrebase4
+pysqlite-binary==0.5.1.3380300
 
 
 # For downloading the model
