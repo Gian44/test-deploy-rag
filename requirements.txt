@@ -19,7 +19,7 @@ langsmith
 supabase
 nltk
 Pyrebase4
-
+pysqlite3
 
 
 # For downloading the model
