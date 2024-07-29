@@ -1,0 +1,33 @@
+credentials:
+  usernames:
+    gian:
+      email: gian@gmail.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: Gian Lopez
+      password: "123" # Will be hashed automatically
+    wince:
+      email: wince@gmail.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: Wince Briggs
+      password: "123" # Will be hashed automatically
+    ray:
+      email: ray@gmail.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: Ray Wiggins
+      password: "123" # Will be hashed automatically
+    beam:
+      email: beam@gmail.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: Beam Smith
+      password: "123" # Will be hashed automatically  
+cookie:
+  expiry_days: 30
+  key: abcdef # Must be string
+  name: main
+pre-authorized:
+  emails:
+  - melsby@gmail.com

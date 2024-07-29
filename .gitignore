@@ -1,0 +1,16 @@
+# Ignore compiled  Python bytecode files
+*.pyc
+# Ignore Python cache directories
+__pycache__/
+.venv/
+chroma.log
+chroma.sqlite3
+dbopenall-mpnet-base-v2
+raw_data/
+# Ignore environment-specific settings
+.env
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-*
+test/data
