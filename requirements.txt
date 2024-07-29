@@ -1,4 +1,6 @@
 streamlit
+streamlit_extras
+streamlit_authenticator
 tika
 langchain
 langchain_huggingface
@@ -9,14 +11,10 @@ chromadb==0.5.3
 spacy
 requests
 rank_bm25
+psycopg2-binary
 psycopg2
 langsmith
-streamlit_extras
-
 supabase
-psycopg2
-streamlit_authenticator
-streamlit_extras
 nltk
 
 
