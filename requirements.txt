@@ -9,6 +9,7 @@ langchain_huggingface
 langchain_community
 langchain_groq
 
+sqlite3
 python-dotenv
 chromadb==0.5.3
 spacy
