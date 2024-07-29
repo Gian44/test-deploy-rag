@@ -19,10 +19,13 @@ langsmith
 supabase
 nltk
 
+# Specific versions to ensure compatibility
+protobuf==3.20.1
+opentelemetry-api==1.10.0
+opentelemetry-sdk==1.10.0
 
 # For downloading the model
 # python -m spacy download en_core_web_sm
-
 
 # For downloading the NLTK resources
 # run "setup_nltk.py"
